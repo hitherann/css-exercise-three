@@ -50,9 +50,8 @@ h3 {
   clear:both;
 }
 
-h3:hover {
-  background-color: inherit;
-  color: yellow;
+.location:hover {
+  background-color: grey;
 }
 
 .content {
